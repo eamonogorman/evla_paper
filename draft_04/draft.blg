@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: draft.aux
+The style file: apj.bst
+Database file #1: draftNotes.bib
+Database file #2: references.bib
+Warning--empty publisher in 1978ppim.book.....S
+You've used 41 entries,
+            2988 wiz_defined-function locations,
+            936 strings with 12447 characters,
+and the built_in function-call counts, 18324 in all, are:
+= -- 1574
+> -- 1117
+< -- 30
++ -- 373
+- -- 332
+* -- 1466
+:= -- 3363
+add.period$ -- 41
+call.type$ -- 41
+change.case$ -- 269
+chr.to.int$ -- 41
+cite$ -- 42
+duplicate$ -- 809
+empty$ -- 1191
+format.name$ -- 462
+if$ -- 3681
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 35
+newline$ -- 127
+num.names$ -- 170
+pop$ -- 301
+preamble$ -- 1
+purify$ -- 269
+quote$ -- 0
+skip$ -- 700
+stack$ -- 0
+substring$ -- 890
+swap$ -- 46
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 366
+warning$ -- 1
+while$ -- 168
+width$ -- 0
+write$ -- 411
+(There was 1 warning)
