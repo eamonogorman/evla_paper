@@ -1,4 +1,4 @@
-\begin{thebibliography}{44}
+\begin{thebibliography}{45}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -86,8 +86,11 @@
 \bibitem[{{Glassgold} \& {Huggins}(1986)}]{1986ApJ...306..605G}
 {Glassgold}, A.~E., \& {Huggins}, P.~J. 1986, \apj, 306, 605
 
+\bibitem[{{Harper}(1988)}]{1988PhDT........13H}
+{Harper}, G.~M. 1988, PhD thesis, Oxford Univ.~(England).
+
 \bibitem[{{Harper}(2010)}]{2010ApJ...720.1767H}
-{Harper}, G.~M. 2010, \apj, 720, 1767
+---. 2010, \apj, 720, 1767
 
 \bibitem[{{Harper} {et~al.}(2005){Harper}, {Brown}, {Bennett}, {Baade},
   {Walder}, \& {Hummel}}]{2005AJ....129.1018H}

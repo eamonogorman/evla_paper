@@ -4,45 +4,45 @@ The style file: apj.bst
 Database file #1: draftNotes.bib
 Database file #2: references.bib
 Warning--empty publisher in 1978ppim.book.....S
-You've used 44 entries,
+You've used 45 entries,
             2988 wiz_defined-function locations,
-            956 strings with 13062 characters,
-and the built_in function-call counts, 19845 in all, are:
-= -- 1699
-> -- 1239
-< -- 31
-+ -- 415
-- -- 371
-* -- 1602
-:= -- 3650
-add.period$ -- 44
-call.type$ -- 44
-change.case$ -- 294
-chr.to.int$ -- 44
-cite$ -- 45
-duplicate$ -- 866
-empty$ -- 1271
-format.name$ -- 512
-if$ -- 3975
+            960 strings with 13163 characters,
+and the built_in function-call counts, 20136 in all, are:
+= -- 1726
+> -- 1251
+< -- 32
++ -- 419
+- -- 374
+* -- 1619
+:= -- 3711
+add.period$ -- 45
+call.type$ -- 45
+change.case$ -- 299
+chr.to.int$ -- 45
+cite$ -- 46
+duplicate$ -- 881
+empty$ -- 1292
+format.name$ -- 516
+if$ -- 4030
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 38
-newline$ -- 136
-num.names$ -- 182
-pop$ -- 328
+newline$ -- 139
+num.names$ -- 186
+pop$ -- 332
 preamble$ -- 1
-purify$ -- 294
+purify$ -- 299
 quote$ -- 0
-skip$ -- 746
+skip$ -- 759
 stack$ -- 0
-substring$ -- 950
+substring$ -- 961
 swap$ -- 46
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 393
+type$ -- 402
 warning$ -- 1
-while$ -- 180
+while$ -- 183
 width$ -- 0
-write$ -- 441
+write$ -- 451
 (There was 1 warning)

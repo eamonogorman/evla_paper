@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  30 MAR 2013 14:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.4.6)  1 APR 2013 18:43
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -311,14 +311,14 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 Class revtex4-1 Warning: Assuming \noaffiliation for Eamon O'Gorman\textsupersc
 ript {1}, Graham M. Harper\textsuperscript {1}, Alexander Brown\textsuperscript
- {2}, Stephen Drake\textsuperscript {3}, and Anita M.S. Richards\textsuperscrip
-t {4}.
+ {2}, Stephen Drake\textsuperscript {3}, and Anita M. S. Richards\textsuperscri
+pt {4}.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [1]
-Underfull \hbox (badness 2856) in paragraph at lines 130--131
+Underfull \hbox (badness 2856) in paragraph at lines 129--130
 []\OT1/cmr/m/n/10 The data were flagged, cal-i-brated, and im-aged
  []
 
@@ -330,7 +330,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \begin{deluxetable*}{Cccccccc}
+l.137 \begin{deluxetable*}{Cccccccc}
                                     
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -338,7 +338,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -346,7 +346,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \@preamble ...ignorespaces \@sharp \unskip \hfil }
                                                   \hskip \tabrightsep \relax 
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -357,7 +357,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -368,7 +368,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -379,7 +379,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -387,7 +387,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 \@preamble ...ignorespaces \@sharp \unskip \hfil }
                                                   \hskip \tabrightsep \relax 
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -398,7 +398,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -409,7 +409,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.158 	\colhead{Error (mJy)}		}
+l.157 	\colhead{Error (mJy)}		}
                                
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -425,26 +425,26 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 \begin{deluxetable*}{Ccccc}
+l.189 \begin{deluxetable*}{Ccccc}
                                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [4]
 
-LaTeX Warning: Command \r invalid in math mode on input line 244.
+LaTeX Warning: Command \r invalid in math mode on input line 243.
 
 File: fig1.ps Graphic file (type eps)
 <fig1.ps>
 File: fig2.ps Graphic file (type eps)
  <fig2.ps>
 
-LaTeX Warning: Float too large for page by 68.4421pt on input line 257.
+LaTeX Warning: Float too large for page by 68.4421pt on input line 256.
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.261 ...r (i.e., 6.3$\times$10$^{-9}$ M{$_{\odot$
+l.260 ...r (i.e., 6.3$\times$10$^{-9}$ M{$_{\odot$
                                                   }} yr$^{-1}$) and predicts...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -453,7 +453,7 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 ! Too many }'s.
-l.261 ...(i.e., 6.3$\times$10$^{-9}$ M{$_{\odot$}}
+l.260 ...(i.e., 6.3$\times$10$^{-9}$ M{$_{\odot$}}
                                                    yr$^{-1}$) and predicts a...
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -461,7 +461,7 @@ Such booboos are generally harmless, so keep going.
 [5] [6]
 File: fig3.ps Graphic file (type eps)
  <fig3.ps>
-Overfull \hbox (8.10309pt too wide) in paragraph at lines 267--268
+Overfull \hbox (8.10309pt too wide) in paragraph at lines 266--267
 [][] 
  []
 
@@ -469,16 +469,16 @@ File: fig4.ps Graphic file (type eps)
 <fig4.ps>
 File: fig5.ps Graphic file (type eps)
  <fig5.ps>
-Overfull \hbox (6.59348pt too wide) in paragraph at lines 289--290
+Overfull \hbox (6.59348pt too wide) in paragraph at lines 288--289
 [][] 
  []
 
 [7]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 295.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 295.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
@@ -486,7 +486,7 @@ Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 ! Undefined control sequence.
 <recently read> \alpah 
                        
-l.296 ...extit{frozen-in} in the region of $\alpah
+l.295 ...extit{frozen-in} in the region of $\alpah
                                                   $ Boo's wind where the rad...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -501,14 +501,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.306 \item 1
+l.305 \item 1
              . We assume a conserved mass outflow i.e., $n_{\rm{H}}(r)=C/r^2...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 306
+Underfull \hbox (badness 10000) detected at line 305
 [][]
  []
 
@@ -519,18 +519,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.307 \item 2
+l.306 \item 2
              . We assume that all ionization processes cease (\textbf{GMH}).
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 307
+Underfull \hbox (badness 10000) detected at line 306
 [][]
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 307--308
+Underfull \hbox (badness 1168) in paragraph at lines 306--307
 []\OT1/cmr/m/n/10 2. We as-sume that all ion-iza-tion pro-cesses cease
  []
 
@@ -541,14 +541,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 \item 3
+l.307 \item 3
              . We consider only radiative recombination of H and include the...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 308
+Underfull \hbox (badness 10000) detected at line 307
 [][]
  []
 
@@ -559,8 +559,26 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.314 \item 4
+l.313 \item 4
              . We assume a constant heavy ion fraction, $x_{\rm{ion}}=n_{\rm...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 313
+[][]
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 \item U
+             sing these assumptions it can be shown that the ionization frac...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -570,27 +588,9 @@ Underfull \hbox (badness 10000) detected at line 314
 [][]
  []
 
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.315 \item U
-             sing these assumptions it can be shown that the ionization frac...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 315
-[][]
- []
-
 [8] (./draft.bbl
 ! Undefined control sequence.
-l.109 {Krogulec}, M. 1988, \actaa
+l.112 {Krogulec}, M. 1988, \actaa
                                  , 38, 107
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -599,7 +599,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.112 ---. 1989, \actaa
+l.115 ---. 1989, \actaa
                        , 39, 51
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -609,12 +609,12 @@ and I'll forget about whatever was undefined.
 
 ) [9] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4282 strings out of 495062
- 55337 string characters out of 1182645
- 177168 words of memory out of 3000000
- 7411 multiletter control sequences out of 15000+50000
+ 4285 strings out of 495062
+ 55433 string characters out of 1182645
+ 139504 words of memory out of 3000000
+ 7414 multiletter control sequences out of 15000+50000
  14143 words of font info for 57 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2121b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2155b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (9 pages, 76444 bytes).
+Output written on draft.dvi (9 pages, 76848 bytes).
