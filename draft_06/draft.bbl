@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{51}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -89,6 +89,9 @@
 \bibitem[{{Harper}(1988)}]{1988PhDT........13H}
 {Harper}, G.~M. 1988, PhD thesis, Oxford Univ.~(England).
 
+\bibitem[{{Harper}(1994)}]{1994MNRAS.268..894H}
+---. 1994, \mnras, 268, 894
+
 \bibitem[{{Harper}(2010)}]{2010ApJ...720.1767H}
 ---. 2010, \apj, 720, 1767
 
@@ -96,6 +99,10 @@
   {Walder}, \& {Hummel}}]{2005AJ....129.1018H}
 {Harper}, G.~M., {Brown}, A., {Bennett}, P.~D., {Baade}, R., {Walder}, R., \&
   {Hummel}, C.~A. 2005, \aj, 129, 1018
+
+\bibitem[{{Harper} {et~al.}(2013){Harper}, {O'Riain}, \&
+  {Ayres}}]{2013MNRAS.428.2064H}
+{Harper}, G.~M., {O'Riain}, N., \& {Ayres}, T.~R. 2013, \mnras, 428, 2064
 
 \bibitem[{{Hartmann} \& {MacGregor}(1980)}]{1980ApJ...242..260H}
 {Hartmann}, L., \& {MacGregor}, K.~B. 1980, \apj, 242, 260
@@ -105,14 +112,29 @@
   Library, Vol. 117, Mass Loss from Red Giants, ed. M.~{Morris} \&
   B.~{Zuckerman}, 229--255
 
+\bibitem[{{Hummer}(1988)}]{1988ApJ...327..477H}
+{Hummer}, D.~G. 1988, \apj, 327, 477
+
 \bibitem[{{Judge} \& {Carpenter}(1998)}]{1998ApJ...494..828J}
 {Judge}, P.~G., \& {Carpenter}, K.~G. 1998, \apj, 494, 828
+
+\bibitem[{{Kallinger} {et~al.}(2010){Kallinger}, {Weiss}, {Barban}, {Baudin},
+  {Cameron}, {Carrier}, {De Ridder}, {Goupil}, {Gruberbauer}, {Hatzes},
+  {Hekker}, {Samadi}, \& {Deleuil}}]{2010A&A...509A..77K}
+{Kallinger}, T., {et~al.} 2010, \aap, 509, A77
 
 \bibitem[{{Krogulec}(1988)}]{1988AcA....38..107K}
 {Krogulec}, M. 1988, \actaa, 38, 107
 
 \bibitem[{{Krogulec}(1989)}]{1989AcA....39...51K}
 ---. 1989, \actaa, 39, 51
+
+\bibitem[{{Lebzelter} {et~al.}(2012){Lebzelter}, {Heiter}, {Abia}, {Eriksson},
+  {Ireland}, {Neilson}, {Nowotny}, {Maldonado}, {Merle}, {Peterson}, {Plez},
+  {Short}, {Wahlgren}, {Worley}, {Aringer}, {Bladh}, {de Laverny}, {Goswami},
+  {Mora}, {Norris}, {Recio-Blanco}, {Scholz}, {Th{\'e}venin}, {Tsuji},
+  {Kordopatis}, {Montesinos}, \& {Wing}}]{2012A&A...547A.108L}
+{Lebzelter}, T., {et~al.} 2012, \aap, 547, A108
 
 \bibitem[{{Linsky} \& {Haisch}(1979)}]{1979ApJ...229L..27L}
 {Linsky}, J.~L., \& {Haisch}, B.~M. 1979, \apjl, 229, L27
@@ -150,7 +172,8 @@
 {Seaquist}, E.~R., \& {Taylor}, A.~R. 1987, \apj, 312, 813
 
 \bibitem[{{Spitzer}(1978)}]{1978ppim.book.....S}
-{Spitzer}, L. 1978, {Physical processes in the interstellar medium}
+{Spitzer}, L. 1978, Physical processes in the interstellar medium (New York
+  Wiley-Interscience, 1978.\ 333 p.)
 
 \bibitem[{{Sutmann} \& {Cuntz}(1995)}]{1995ApJ...442L..61S}
 {Sutmann}, G., \& {Cuntz}, M. 1995, \apjl, 442, L61
@@ -179,5 +202,8 @@
 
 \bibitem[{{Wright} \& {Barlow}(1975)}]{1975MNRAS.170...41W}
 {Wright}, A.~E., \& {Barlow}, M.~J. 1975, \mnras, 170, 41
+
+\bibitem[{{Wright}(1970)}]{1970VA.....12..147W}
+{Wright}, K.~O. 1970, Vistas in Astronomy, 12, 147
 
 \end{thebibliography}
