@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  4 APR 2013 18:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  5 APR 2013 17:09
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -519,17 +519,6 @@ LaTeX Warning: A float is stuck (cannot be placed) on input line 292.
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-! Undefined control sequence.
-<recently read> \alpah 
-                       
-l.293 ...extit{frozen-in} in the region of $\alpah
-                                                  $ Boo's wind where the rad...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -538,7 +527,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.303 \item 1
-             . Assume a conserved mass outflow i.e., $n_{\rm{H}}(r)=C/r^2$ w...
+             . A conserved mass outflow i.e., $n_{\rm{H}}(r)=C/r^2$ where $n...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -556,7 +545,8 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.304 \item 2
-             . All ionization processes cease beyond $r_{1}$(\textbf{GMH}).
+             . All ionization processes cease beyond $r_{1}$. The ionization...
+
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -591,7 +581,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.311 \item 4
-             . The heavy ion fraction is constant, $x_{\rm{ion}}=n_{\rm{ion}...
+             . A fixed ion contribution from from metals with a low first io...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -645,12 +635,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
 
  ) 
 Here is how much of TeX's memory you used:
- 4311 strings out of 495062
- 56099 string characters out of 1182645
- 141703 words of memory out of 3000000
- 7440 multiletter control sequences out of 15000+50000
- 14143 words of font info for 57 fonts, out of 3000000 for 9000
+ 4308 strings out of 495062
+ 56071 string characters out of 1182645
+ 141705 words of memory out of 3000000
+ 7438 multiletter control sequences out of 15000+50000
+ 13835 words of font info for 56 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  35i,13n,33p,2182b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (10 pages, 78776 bytes).
+Output written on draft.dvi (10 pages, 78872 bytes).
