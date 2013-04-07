@@ -1,4 +1,4 @@
-\begin{thebibliography}{51}
+\begin{thebibliography}{53}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -9,6 +9,9 @@
 \bibitem[{{Altenhoff} {et~al.}(1994){Altenhoff}, {Thum}, \&
   {Wendker}}]{1994AA...281..161A}
 {Altenhoff}, W.~J., {Thum}, C., \& {Wendker}, H.~J. 1994, \aap, 281, 161
+
+\bibitem[{{Ayres} \& {Linsky}(1975)}]{1975ApJ...200..660A}
+{Ayres}, T.~R., \& {Linsky}, J.~L. 1975, \apj, 200, 660
 
 \bibitem[{{Ayres} {et~al.}(1981){Ayres}, {Linsky}, {Vaiana}, {Golub}, \&
   {Rosner}}]{1981ApJ...250..293A}
@@ -63,6 +66,9 @@
 \bibitem[{{di Benedetto}(1993)}]{1993AA...270..315D}
 {di Benedetto}, G.~P. 1993, \aap, 270, 315
 
+\bibitem[{{Drake} \& {Linsky}(1986)}]{1986AJ.....91..602D}
+{Drake}, S., \& {Linsky}, J. 1986, \aj, 91, 602
+
 \bibitem[{{Drake}(1985)}]{1985pssl.proc..351D}
 {Drake}, S.~A. 1985, in Progress in stellar spectral line formation theory;
   Proceedings of the Advanced Research Workshop, Trieste, Italy, September 4-7,
@@ -71,9 +77,6 @@
 
 \bibitem[{{Drake} \& {Linsky}(1983)}]{1983ApJ...274L..77D}
 {Drake}, S.~A., \& {Linsky}, J.~L. 1983, \apjl, 274, L77
-
-\bibitem[{{Drake} \& {Linsky}(1986)}]{1986AJ.....91..602D}
----. 1986, \aj, 91, 602
 
 \bibitem[{{Eaton}(2008)}]{2008AJ....136.1964E}
 {Eaton}, J.~A. 2008, \aj, 136, 1964
@@ -115,6 +118,9 @@
 \bibitem[{{Hummer}(1988)}]{1988ApJ...327..477H}
 {Hummer}, D.~G. 1988, \apj, 327, 477
 
+\bibitem[{{Johnson}(1973)}]{1973ApJ...180...81J}
+{Johnson}, H.~R. 1973, \apj, 180, 81
+
 \bibitem[{{Judge} \& {Carpenter}(1998)}]{1998ApJ...494..828J}
 {Judge}, P.~G., \& {Carpenter}, K.~G. 1998, \apj, 494, 828
 
@@ -126,7 +132,7 @@
 \bibitem[{{Krogulec}(1988)}]{1988AcA....38..107K}
 {Krogulec}, M. 1988, \actaa, 38, 107
 
-\bibitem[{{Krogulec}(1989)}]{1989AcA....39...51K}
+\bibitem[{{Krogulec}(1989)}]{1989AcA....39..51K}
 ---. 1989, \actaa, 39, 51
 
 \bibitem[{{Lebzelter} {et~al.}(2012){Lebzelter}, {Heiter}, {Abia}, {Eriksson},

@@ -3,44 +3,44 @@ The top-level auxiliary file: draft.aux
 The style file: apj.bst
 Database file #1: draftNotes.bib
 Database file #2: references.bib
-You've used 51 entries,
+You've used 53 entries,
             2988 wiz_defined-function locations,
-            998 strings with 14794 characters,
-and the built_in function-call counts, 22818 in all, are:
-= -- 1929
-> -- 1445
-< -- 35
-+ -- 483
-- -- 432
-* -- 1860
-:= -- 4231
-add.period$ -- 51
-call.type$ -- 51
-change.case$ -- 331
-chr.to.int$ -- 51
-cite$ -- 51
-duplicate$ -- 987
-empty$ -- 1459
-format.name$ -- 588
-if$ -- 4557
+            1011 strings with 15069 characters,
+and the built_in function-call counts, 23563 in all, are:
+= -- 1997
+> -- 1479
+< -- 37
++ -- 494
+- -- 441
+* -- 1912
+:= -- 4372
+add.period$ -- 53
+call.type$ -- 53
+change.case$ -- 342
+chr.to.int$ -- 53
+cite$ -- 53
+duplicate$ -- 1023
+empty$ -- 1512
+format.name$ -- 603
+if$ -- 4708
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 44
-newline$ -- 157
-num.names$ -- 210
-pop$ -- 359
+missing$ -- 46
+newline$ -- 163
+num.names$ -- 218
+pop$ -- 370
 preamble$ -- 1
-purify$ -- 331
+purify$ -- 342
 quote$ -- 0
-skip$ -- 858
+skip$ -- 889
 stack$ -- 0
-substring$ -- 1093
+substring$ -- 1132
 swap$ -- 46
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 456
+type$ -- 474
 warning$ -- 0
-while$ -- 203
+while$ -- 211
 width$ -- 0
-write$ -- 512
+write$ -- 532
