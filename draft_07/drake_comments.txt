@@ -1,0 +1,16 @@
+
+(1) Introduction: The statement "Optical and ultraviolet observations reveal an absence of hot wind plasma and the winds are thus too cool to be Parker-type thermally-driven flows (e.g., Linsky & Haisch 1979; Ayres et al. 1981)." is a bit inaccurate I think, and needs some qualification and more up-to-date references. Dupree et al. (2005, ApJ, 622, 629) find evidence in FUSE data for "indications of outflow" at temperatures from 80 to (perhaps) 300 kK in all their small sample of giants, including alpha Tau. This seems to conflict with the Robinson et al. 1998 finding that the weak C IV emission lines detected in alpha Tau are "at rest with respect to the star". I would at the least say "an absence of significant hot wind plasma" in the quoted sentence above, and mention the Dupree et al. paper as a potential awkward datum but the latter authors do not do any real atmospheric modeling (see their 6th finding in their Conclusions Section).
+
+(2) Introduction: Minor point: The JVLA can (now again) observe at 90 cm of course: I assume that you don't mention this band in the last paragraph because the confusion limit is 4 mJy, way above the expected flux?
+
+(3) Section 3.1: "For unknown reasons we do not detect α Boo in the higher frequency sub-band at 5.0 GHz (C-band)." This may raise a red flag with the referee: can you be more specific than this? Did any other observer have problems with this sub-band around this time? Could you see the bright source 106" away from α Boo in this sub-band map?
+
+(4) Section 3.1: Suggest changing "we feel that it is highly unlikely that both sources are not α Boo." to "we feel that it is highly likely that both detections are of α Boo."
+
+(5) Figures 1 & 2: Suggest changing "Grasp" to "Bands" in the labels in these figures. I think of Grasp as "effective area * FOV". Also suggest changing "Drake's Models" to "Drake's Model".
+
+(6) Section 4.2: Suggest adding some Tom Ayres reference(s) as well as the Widedemann reference.
+
+ (7) Section 4.3: "The radio emission from non-dusty K spectral-type red giants is due to thermal free-free emission in their partially ionized outflows." Suggest qualifying this statement somewhat since at the higher frequencies mightn't we be seeing through the wind to the nearly static lower atmospheric layers (as indeed Fig 5 implies)?
+
+ (8) Section 4.4: Typo in first sentence: "A failure of the existing atmospheric model for α Boo is that is overestimates the radio fluxes at long VLA wavelengths which sample its outer atmosphere, as clearly shown in Figure 1." presumably should be "A failure of the existing atmospheric model for α Boo is that it overestimates the radio fluxes at long VLA wavelengths which sample its outer atmosphere, as clearly shown in Figure 1." You also should probably state which particular model you mean, i.e., the Drake model. (Frank Drake gets an equation named after him, I get a lousy model named after me, which doesn't even fit the data well!). Also in next sentence, change "than that predicted" to "than predicted".
