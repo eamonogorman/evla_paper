@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{58}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -13,6 +13,11 @@
 \bibitem[{{Ayres}(1996)}]{1996IAUS..176..371A}
 {Ayres}, T.~R. 1996, in IAU Symposium, Vol. 176, Stellar Surface Structure, ed.
   K.~G. {Strassmeier} \& J.~L. {Linsky}, 371
+
+\bibitem[{{Ayres} {et~al.}(1997){Ayres}, {Brown}, {Harper}, {Bennett},
+  {Linsky}, {Carpenter}, \& {Robinson}}]{1997ApJ...491..876A}
+{Ayres}, T.~R., {Brown}, A., {Harper}, G.~M., {Bennett}, P.~D., {Linsky},
+  J.~L., {Carpenter}, K.~G., \& {Robinson}, R.~D. 1997, \apj, 491, 876
 
 \bibitem[{{Ayres} \& {Linsky}(1975)}]{1975ApJ...200..660A}
 {Ayres}, T.~R., \& {Linsky}, J.~L. 1975, \apj, 200, 660
@@ -82,6 +87,11 @@
 \bibitem[{{Drake} \& {Linsky}(1983)}]{1983ApJ...274L..77D}
 {Drake}, S.~A., \& {Linsky}, J.~L. 1983, \apjl, 274, L77
 
+\bibitem[{{Dupree} {et~al.}(2005){Dupree}, {Lobel}, {Young}, {Ake}, {Linsky},
+  \& {Redfield}}]{2005ApJ...622..629D}
+{Dupree}, A.~K., {Lobel}, A., {Young}, P.~R., {Ake}, T.~B., {Linsky}, J.~L., \&
+  {Redfield}, S. 2005, \apj, 622, 629
+
 \bibitem[{{Eaton}(2008)}]{2008AJ....136.1964E}
 {Eaton}, J.~A. 2008, \aj, 136, 1964
 
@@ -113,6 +123,9 @@
 
 \bibitem[{{Hartmann} \& {MacGregor}(1980)}]{1980ApJ...242..260H}
 {Hartmann}, L., \& {MacGregor}, K.~B. 1980, \apj, 242, 260
+
+\bibitem[{{Hatzes} \& {Cochran}(1993)}]{1993ApJ...413..339H}
+{Hatzes}, A.~P., \& {Cochran}, W.~D. 1993, \apj, 413, 339
 
 \bibitem[{{Holzer} \& {MacGregor}(1985)}]{1985ASSL..117..229H}
 {Holzer}, T.~E., \& {MacGregor}, K.~B. 1985, in Astrophysics and Space Science
@@ -173,6 +186,9 @@
 
 \bibitem[{{Perley} \& {Butler}(2013)}]{2013ApJS..204...19P}
 {Perley}, R.~A., \& {Butler}, B.~J. 2013, \apjs, 204, 19
+
+\bibitem[{{Reimers}(1982)}]{1982A&A...107..292R}
+{Reimers}, D. 1982, \aap, 107, 292
 
 \bibitem[{{Robinson} {et~al.}(1998){Robinson}, {Carpenter}, \&
   {Brown}}]{1998ApJ...503..396R}
