@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.4.6)  1 MAY 2013 12:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  1 MAY 2013 14:40
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -318,21 +318,11 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [1]
-Overfull \hbox (4.75888pt too wide) in paragraph at lines 59--85
+Overfull \hbox (4.75888pt too wide) in paragraph at lines 55--81
  []$[]$ 
  []
 
 [2]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-
 Underfull \hbox (badness 2856) in paragraph at lines 141--142
 []\OT1/cmr/m/n/10 The data were flagged, cal-i-brated, and im-aged
  []
@@ -384,12 +374,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
 [10] (./draft.bbl) [11] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4346 strings out of 495062
- 56994 string characters out of 1182645
+ 4347 strings out of 495062
+ 57004 string characters out of 1182645
  165706 words of memory out of 3000000
- 7475 multiletter control sequences out of 15000+50000
+ 7476 multiletter control sequences out of 15000+50000
  15135 words of font info for 60 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2302b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2302b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (11 pages, 88900 bytes).
+Output written on draft.dvi (11 pages, 88896 bytes).
