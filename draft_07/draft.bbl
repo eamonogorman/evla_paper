@@ -1,4 +1,4 @@
-\begin{thebibliography}{58}
+\begin{thebibliography}{59}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -196,6 +196,9 @@
 
 \bibitem[{{Seaquist} \& {Taylor}(1987)}]{1987ApJ...312..813S}
 {Seaquist}, E.~R., \& {Taylor}, A.~R. 1987, \apj, 312, 813
+
+\bibitem[{{Sennhauser} \& {Berdyugina}(2011)}]{2011A&A...529A.100S}
+{Sennhauser}, C., \& {Berdyugina}, S.~V. 2011, \aap, 529, A100
 
 \bibitem[{{Spitzer}(1978)}]{1978ppim.book.....S}
 {Spitzer}, L. 1978, Physical processes in the interstellar medium (New York

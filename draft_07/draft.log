@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  30 APR 2013 18:29
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.4.6)  1 MAY 2013 12:56
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -323,6 +323,16 @@ Overfull \hbox (4.75888pt too wide) in paragraph at lines 59--85
  []
 
 [2]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
+
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 140.
+
+
+Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
+
+
 Underfull \hbox (badness 2856) in paragraph at lines 141--142
 []\OT1/cmr/m/n/10 The data were flagged, cal-i-brated, and im-aged
  []
@@ -331,9 +341,8 @@ Underfull \hbox (badness 2856) in paragraph at lines 141--142
 
 LaTeX Warning: Command \r invalid in math mode on input line 251.
 
-[5]
 File: fig0.ps Graphic file (type eps)
- <fig0.ps>
+<fig0.ps>
 Overfull \hbox (1.89728pt too wide) in paragraph at lines 254--255
 [][] 
  []
@@ -345,38 +354,42 @@ File: fig2.ps Graphic file (type eps)
 
 LaTeX Warning: Float too large for page by 68.4421pt on input line 270.
 
+[5] [6]
+
+LaTeX Warning: A float is stuck (cannot be placed) on input line 273.
+
+[7]
 File: fig3.ps Graphic file (type eps)
-<fig3.ps>
+ <fig3.ps>
 Overfull \hbox (8.10309pt too wide) in paragraph at lines 282--283
 [][] 
  []
 
-[6] [7]
+File: fig4.ps Graphic file (type eps)
+<fig4.ps> [8]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 302.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 302.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
 
-File: fig4.ps Graphic file (type eps)
-<fig4.ps>
 File: fig5.ps Graphic file (type eps)
- <fig5.ps> [8]
+<fig5.ps> [9]
 Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
  []
 
-[9] (./draft.bbl [10]) [11] (./draft.aux) ) 
+[10] (./draft.bbl) [11] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4339 strings out of 495062
- 56851 string characters out of 1182645
- 147178 words of memory out of 3000000
- 7468 multiletter control sequences out of 15000+50000
- 14533 words of font info for 58 fonts, out of 3000000 for 9000
+ 4346 strings out of 495062
+ 56994 string characters out of 1182645
+ 165706 words of memory out of 3000000
+ 7475 multiletter control sequences out of 15000+50000
+ 15135 words of font info for 60 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2309b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2302b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (11 pages, 88324 bytes).
+Output written on draft.dvi (11 pages, 88900 bytes).
