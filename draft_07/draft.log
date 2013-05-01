@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.4.6)  30 APR 2013 12:53
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  30 APR 2013 18:29
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -318,23 +318,23 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 [1]
-Overfull \hbox (4.75888pt too wide) in paragraph at lines 59--84
+Overfull \hbox (4.75888pt too wide) in paragraph at lines 59--85
  []$[]$ 
  []
 
 [2]
-Underfull \hbox (badness 2856) in paragraph at lines 140--141
+Underfull \hbox (badness 2856) in paragraph at lines 141--142
 []\OT1/cmr/m/n/10 The data were flagged, cal-i-brated, and im-aged
  []
 
 [3] [4]
 
-LaTeX Warning: Command \r invalid in math mode on input line 250.
+LaTeX Warning: Command \r invalid in math mode on input line 251.
 
 [5]
 File: fig0.ps Graphic file (type eps)
  <fig0.ps>
-Overfull \hbox (1.89728pt too wide) in paragraph at lines 253--254
+Overfull \hbox (1.89728pt too wide) in paragraph at lines 254--255
 [][] 
  []
 
@@ -343,20 +343,20 @@ File: fig1.ps Graphic file (type eps)
 File: fig2.ps Graphic file (type eps)
  <fig2.ps>
 
-LaTeX Warning: Float too large for page by 68.4421pt on input line 269.
+LaTeX Warning: Float too large for page by 68.4421pt on input line 270.
 
 File: fig3.ps Graphic file (type eps)
 <fig3.ps>
-Overfull \hbox (8.10309pt too wide) in paragraph at lines 281--282
+Overfull \hbox (8.10309pt too wide) in paragraph at lines 282--283
 [][] 
  []
 
 [6] [7]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 293.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 293.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 294.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
@@ -365,18 +365,18 @@ File: fig4.ps Graphic file (type eps)
 <fig4.ps>
 File: fig5.ps Graphic file (type eps)
  <fig5.ps> [8]
-Underfull \hbox (badness 10000) in paragraph at lines 344--346
+Underfull \hbox (badness 10000) in paragraph at lines 345--347
 
  []
 
-[9] (./draft.bbl) [10] (./draft.aux) ) 
+[9] (./draft.bbl [10]) [11] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4338 strings out of 495062
- 56834 string characters out of 1182645
- 183704 words of memory out of 3000000
- 7467 multiletter control sequences out of 15000+50000
- 13835 words of font info for 56 fonts, out of 3000000 for 9000
+ 4339 strings out of 495062
+ 56851 string characters out of 1182645
+ 147178 words of memory out of 3000000
+ 7468 multiletter control sequences out of 15000+50000
+ 14533 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2309b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2309b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (10 pages, 87652 bytes).
+Output written on draft.dvi (11 pages, 88324 bytes).
