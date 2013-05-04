@@ -760,3 +760,136 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/1975ApJ...200..660A},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+@INPROCEEDINGS{1996IAUS..176..371A,
+   author = {{Ayres}, T.~R.},
+    title = "{Thermal bifurcation as a driver of stellar surface inhomogeneities (review)}",
+booktitle = {Stellar Surface Structure},
+     year = 1996,
+   series = {IAU Symposium},
+   volume = 176,
+   editor = {{Strassmeier}, K.~G. and {Linsky}, J.~L.},
+    pages = {371},
+   adsurl = {http://adsabs.harvard.edu/abs/1996IAUS..176..371A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993ApJ...413..339H,
+   author = {{Hatzes}, A.~P. and {Cochran}, W.~D.},
+    title = "{Long-period radial velocity variations in three K giants}",
+  journal = {\apj},
+ keywords = {GIANT STARS, K STARS, RADIAL VELOCITY, STELLAR MOTIONS, VELOCITY MEASUREMENT, LONG TERM EFFECTS, STELLAR OSCILLATIONS, STELLAR SPECTRA},
+     year = 1993,
+    month = aug,
+   volume = 413,
+    pages = {339-348},
+      doi = {10.1086/173002},
+   adsurl = {http://adsabs.harvard.edu/abs/1993ApJ...413..339H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1982A&A...107..292R,
+   author = {{Reimers}, D.},
+    title = "{Detection of further red giants with 'hybrid' atmospheres and a possible correlation with double circumstellar MG II and CA II lines}",
+  journal = {\aap},
+ keywords = {ABSORPTION SPECTRA, RED GIANT STARS, STELLAR ATMOSPHERES, STELLAR CORONAS, STELLAR ENVELOPES, STELLAR WINDS, CALCIUM, HERTZSPRUNG-RUSSELL DIAGRAM, IUE, LINE SPECTRA, MAGNESIUM, STELLAR MASS EJECTION, STELLAR SPECTRA},
+     year = 1982,
+    month = mar,
+   volume = 107,
+    pages = {292-299},
+   adsurl = {http://adsabs.harvard.edu/abs/1982A%26A...107..292R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997ApJ...491..876A,
+   author = {{Ayres}, T.~R. and {Brown}, A. and {Harper}, G.~M. and {Bennett}, P.~D. and 
+	{Linsky}, J.~L. and {Carpenter}, K.~G. and {Robinson}, R.~D.
+	},
+    title = "{Digging Deeper in the Coronal Graveyard}",
+  journal = {\apj},
+ keywords = {STARS: CORONAE, STARS: LATE-TYPE, ULTRAVIOLET: STARS, X-RAYS: STARS},
+     year = 1997,
+    month = dec,
+   volume = 491,
+    pages = {876},
+      doi = {10.1086/304989},
+   adsurl = {http://adsabs.harvard.edu/abs/1997ApJ...491..876A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2005ApJ...622..629D,
+   author = {{Dupree}, A.~K. and {Lobel}, A. and {Young}, P.~R. and {Ake}, T.~B. and 
+	{Linsky}, J.~L. and {Redfield}, S.},
+    title = "{A Far-Ultraviolet Spectroscopic Survey of Luminous Cool Stars}",
+  journal = {\apj},
+   eprint = {arXiv:astro-ph/0412539},
+ keywords = {Stars: Chromospheres, Stars: Winds, Outflows, Ultraviolet: Stars},
+     year = 2005,
+    month = mar,
+   volume = 622,
+    pages = {629-652},
+      doi = {10.1086/428111},
+   adsurl = {http://adsabs.harvard.edu/abs/2005ApJ...622..629D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011A&A...529A.100S,
+   author = {{Sennhauser}, C. and {Berdyugina}, S.~V.},
+    title = "{First detection of a weak magnetic field on the giant Arcturus: remnants of a solar dynamo?}",
+  journal = {\aap},
+ keywords = {stars: individual: Arcturus, stars: magnetic field, stars: late-type},
+     year = 2011,
+    month = may,
+   volume = 529,
+      eid = {A100},
+    pages = {A100},
+      doi = {10.1051/0004-6361/201015445},
+   adsurl = {http://adsabs.harvard.edu/abs/2011A%26A...529A.100S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006PASP..118.1112G,
+   author = {{Gray}, D.~F. and {Brown}, K.~I.~T.},
+    title = "{The Rotation of Arcturus and Active Longitudes on Giant Stars}",
+  journal = {\pasp},
+ keywords = {Line: Profiles, Stars: Activity, Stars: Late-Type, Stars: Rotation, Stars: Spots},
+     year = 2006,
+    month = aug,
+   volume = 118,
+    pages = {1112-1118},
+      doi = {10.1086/507077},
+   adsurl = {http://adsabs.harvard.edu/abs/2006PASP..118.1112G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...553A...3O,
+   author = {{Ohnaka}, K.},
+    title = "{Spatially resolved, high-spectral resolution observation of the K giant Aldebaran in the CO first overtone lines with VLTI/AMBER}",
+  journal = {\aap},
+archivePrefix = "arXiv",
+   eprint = {1303.4763},
+ primaryClass = "astro-ph.SR",
+ keywords = {infrared: stars, techniques: interferometric, stars: mass-loss, stars: late-type, stars: atmospheres, stars: individual: Aldebaran},
+     year = 2013,
+    month = may,
+   volume = 553,
+      eid = {A3},
+    pages = {A3},
+      doi = {10.1051/0004-6361/201321207},
+   adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...553A...3O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJ...679.1531B,
+   author = {{Brown}, K.~I.~T. and {Gray}, D.~F. and {Baliunas}, S.~L.},
+    title = "{Long-Term Spectroscopic Monitoring of Arcturus}",
+  journal = {\apj},
+ keywords = {Stars: Activity, Stars: Atmospheres, Stars: Late-Type, Stars: Magnetic Fields, Techniques: Spectroscopic},
+     year = 2008,
+    month = jun,
+   volume = 679,
+    pages = {1531-1540},
+      doi = {10.1086/587783},
+   adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...679.1531B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}

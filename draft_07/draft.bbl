@@ -1,4 +1,4 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{62}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
@@ -40,6 +40,10 @@
   {Worden}}]{1981ApJ...245L..71B}
 {Boice}, D.~C., {Kuhn}, J.~R., {Robinson}, R.~D., \& {Worden}, S.~P. 1981,
   \apjl, 245, L71
+
+\bibitem[{{Brown} {et~al.}(2008){Brown}, {Gray}, \&
+  {Baliunas}}]{2008ApJ...679.1531B}
+{Brown}, K.~I.~T., {Gray}, D.~F., \& {Baliunas}, S.~L. 2008, \apj, 679, 1531
 
 \bibitem[{{Carpenter} {et~al.}(1999){Carpenter}, {Robinson}, {Harper},
   {Bennett}, {Brown}, \& {Mullan}}]{1999ApJ...521..382C}
@@ -102,6 +106,9 @@
 
 \bibitem[{{Glassgold} \& {Huggins}(1986)}]{1986ApJ...306..605G}
 {Glassgold}, A.~E., \& {Huggins}, P.~J. 1986, \apj, 306, 605
+
+\bibitem[{{Gray} \& {Brown}(2006)}]{2006PASP..118.1112G}
+{Gray}, D.~F., \& {Brown}, K.~I.~T. 2006, \pasp, 118, 1112
 
 \bibitem[{{Harper}(1988)}]{1988PhDT........13H}
 {Harper}, G.~M. 1988, PhD thesis, Oxford Univ.~(England).
@@ -177,6 +184,9 @@
   Conference Series, Vol. 448, 16th Cambridge Workshop on Cool Stars, Stellar
   Systems, and the Sun, ed. C.~{Johns-Krull}, M.~K. {Browning}, \& A.~A.
   {West}, 691
+
+\bibitem[{{Ohnaka}(2013)}]{2013A&A...553A...3O}
+{Ohnaka}, K. 2013, \aap, 553, A3
 
 \bibitem[{{Olnon}(1975)}]{1975AA....39..217O}
 {Olnon}, F.~M. 1975, \aap, 39, 217
