@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  6 MAY 2013 18:14
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.4.6)  7 MAY 2013 15:43
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -357,10 +357,10 @@ File: fig4.ps Graphic file (type eps)
 File: fig5.ps Graphic file (type eps)
  <fig5.ps> [8]
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 316.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 314.
 
 
-LaTeX Warning: A float is stuck (cannot be placed) on input line 316.
+LaTeX Warning: A float is stuck (cannot be placed) on input line 314.
 
 
 Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
@@ -372,12 +372,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 349--351
 
 [9] (./draft.bbl [10]) [11] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4357 strings out of 495062
- 57300 string characters out of 1182645
- 144219 words of memory out of 3000000
- 7486 multiletter control sequences out of 15000+50000
+ 4358 strings out of 495062
+ 57308 string characters out of 1182645
+ 144209 words of memory out of 3000000
+ 7487 multiletter control sequences out of 15000+50000
  14437 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2302b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2276b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (11 pages, 91352 bytes).
+Output written on draft.dvi (11 pages, 91496 bytes).
