@@ -1,5 +1,9 @@
-\begin{thebibliography}{62}
+\begin{thebibliography}{63}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Airapetian} {et~al.}(2010){Airapetian}, {Carpenter}, \&
+  {Ofman}}]{2010ApJ...723.1210A}
+{Airapetian}, V., {Carpenter}, K.~G., \& {Ofman}, L. 2010, \apj, 723, 1210
 
 \bibitem[{{Altenhoff} {et~al.}(1986){Altenhoff}, {Huchtmeier}, {Schmidt},
   {Schraml}, \& {Stumpff}}]{1986AA...164..227A}
