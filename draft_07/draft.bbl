@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{64}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Airapetian} {et~al.}(2010){Airapetian}, {Carpenter}, \&
@@ -75,6 +75,11 @@
 \bibitem[{{Crowley} {et~al.}(2008){Crowley}, {Espey}, \&
   {McCandliss}}]{2008ApJ...675..711C}
 {Crowley}, C., {Espey}, B.~R., \& {McCandliss}, S.~R. 2008, \apj, 675, 711
+
+\bibitem[{{Decin} {et~al.}(2003){Decin}, {Vandenbussche}, {Waelkens}, {Decin},
+  {Eriksson}, {Gustafsson}, {Plez}, \& {Sauval}}]{2003A&A...400..709D}
+{Decin}, L., {Vandenbussche}, B., {Waelkens}, C., {Decin}, G., {Eriksson}, K.,
+  {Gustafsson}, B., {Plez}, B., \& {Sauval}, A.~J. 2003, \aap, 400, 709
 
 \bibitem[{{Dehaes} {et~al.}(2011){Dehaes}, {Bauwens}, {Decin}, {Eriksson},
   {Raskin}, {Butler}, {Dowell}, {Ali}, \& {Blommaert}}]{2011AA...533A.107D}
