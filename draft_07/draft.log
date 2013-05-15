@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  14 MAY 2013 16:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  15 MAY 2013 16:13
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -336,12 +336,12 @@ File: fig1.ps Graphic file (type eps)
 LaTeX Warning: Float too large for page by 68.4421pt on input line 257.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 266.
+LaTeX Warning: Command \r invalid in math mode on input line 264.
 
 [5] [6]
 File: fig2.ps Graphic file (type eps)
  <fig2.ps>
-Overfull \hbox (1.89728pt too wide) in paragraph at lines 270--271
+Overfull \hbox (1.89728pt too wide) in paragraph at lines 268--269
 [][] 
  []
 
@@ -353,19 +353,9 @@ Overfull \hbox (8.10309pt too wide) in paragraph at lines 287--288
  []
 
 File: fig4.ps Graphic file (type eps)
-<fig4.ps>
+<fig4.ps> [8]
 File: fig5.ps Graphic file (type eps)
- <fig5.ps> [8]
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 315.
-
-
-LaTeX Warning: A float is stuck (cannot be placed) on input line 315.
-
-
-Class revtex4-1 Warning: Deferred float stuck during \clearpage processing.
-
-[9]
+ <fig5.ps> [9]
 Underfull \hbox (badness 10000) in paragraph at lines 350--352
 
  []
@@ -374,10 +364,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 350--352
 Here is how much of TeX's memory you used:
  4364 strings out of 495062
  57502 string characters out of 1182645
- 142493 words of memory out of 3000000
+ 150833 words of memory out of 3000000
  7493 multiletter control sequences out of 15000+50000
  14437 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 35i,13n,33p,2276b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,13n,33p,2242b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (11 pages, 92428 bytes).
+Output written on draft.dvi (11 pages, 93564 bytes).
