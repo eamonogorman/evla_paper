@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: draft.aux
+The style file: apj.bst
+Database file #1: draftNotes.bib
+Database file #2: references.bib
+You've used 64 entries,
+            2988 wiz_defined-function locations,
+            1084 strings with 17249 characters,
+and the built_in function-call counts, 28826 in all, are:
+= -- 2436
+> -- 1850
+< -- 44
++ -- 621
+- -- 557
+* -- 2356
+:= -- 5352
+add.period$ -- 64
+call.type$ -- 64
+change.case$ -- 424
+chr.to.int$ -- 64
+cite$ -- 64
+duplicate$ -- 1236
+empty$ -- 1821
+format.name$ -- 753
+if$ -- 5746
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 56
+newline$ -- 196
+num.names$ -- 263
+pop$ -- 458
+preamble$ -- 1
+purify$ -- 424
+quote$ -- 0
+skip$ -- 1075
+stack$ -- 0
+substring$ -- 1368
+swap$ -- 54
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 573
+warning$ -- 0
+while$ -- 256
+width$ -- 0
+write$ -- 642

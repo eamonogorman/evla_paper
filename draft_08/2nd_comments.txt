@@ -1,0 +1,32 @@
+Alex's:
+Sect 1.1, p.2  I don't understand what "global mean
+radial electron temperature" is!!!
+You can have a "global mean electron temperature" but what is the
+"radial" doing. Or you could have "mean radial electron
+temperature distribution"
+
+Page 7 "at all nearly all VLA wavelengths" is an all too much.
+
+Page 8, near end of Sect 4.2 the "Tau_3cm" should be "Tau_6cm"
+
+Page 8, 3rd para Sect 4.3 --- better "still accelerating in
+the radio emitting region, if"  rather than the complicated
+"... in the region where the radio emission is emanating from"
+
+Page 9 better "as a function of wavelength" rather than "per
+wavelength"
+
+Page 9 "cooling operations must be operating" but what else
+can operations do! I suppose operations have the option of
+not operating but better "cooling routes" maybe.
+
+Page 9 add "as"  in "referred to as `Model A'"
+
+Page 10  better "beyond 2.3 R_*" rather than "post"
+
+Steve's:
+  (1) Page 1: I would delete the adjective unknown in the first line of the paper: in a sense, the plausible mechanisms are likely mostly known, but we don't really know which dominate (and maybe as you go from K to mid-M the dominant one may vary); also, this issue is discussed in paragraph 2
+
+  (2)  Page 1, Para 2: Clearly in the later red giants which can have significant dust, there may well be some resultant effects from radiation pressure on the dust and gas/dust coupling on the terminal wind properties of the winds. This anyway used to be the belief in the M giant community to whom it was self-evident that these winds were 'dust-driven'. As Keith MacGregor oft times pointed out to me though, the fact that there is significant dust only at >=2 R* means that something else had to push mass out there, and thus had to provide 75% of the energy to push it to infinity. I would suggest reminding the reader that neither of the 2 giants in this paper has evidence for significant dust in their atmospheres, just so as to defuse any concerns regarding this. [Do you know of any references quantifying how dust-free these 2 stars are? I did a quick search of ADS but couldn't find one: I did find  the article by Verhoelst et al (2005, A&A, 435, 289) on K-band IR interferometry on Alpha Boo where they raised the grisly spectre of a possible companion to explain their failure to fit the visibilities. However, in a later paper (Lacour et al. 2008, A&A, 485, 561) the same group puts this spectre to rest, so I don't think that this can of worms need be mentioned! ]
+
+ (3) Page 8, para 1: "the MOLsphere has either has a geometrical": delete the first "has"
