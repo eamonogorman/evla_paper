@@ -1,4 +1,4 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{67}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Airapetian} {et~al.}(2010){Airapetian}, {Carpenter}, \&
@@ -114,6 +114,10 @@
 \bibitem[{{Gray} \& {Brown}(2006)}]{2006PASP..118.1112G}
 {Gray}, D.~F., \& {Brown}, K.~I.~T. 2006, \pasp, 118, 1112
 
+\bibitem[{{Haisch} {et~al.}(1980){Haisch}, {Linsky}, \&
+  {Basri}}]{1980ApJ...235..519H}
+{Haisch}, B.~M., {Linsky}, J.~L., \& {Basri}, G.~S. 1980, \apj, 235, 519
+
 \bibitem[{{Harper}(1988)}]{1988PhDT........13H}
 {Harper}, G.~M. 1988, PhD thesis, Oxford Univ.~(England).
 
@@ -148,6 +152,9 @@
 
 \bibitem[{{Johnson}(1973)}]{1973ApJ...180...81J}
 {Johnson}, H.~R. 1973, \apj, 180, 81
+
+\bibitem[{{Jones}(2008)}]{2008MNRAS.387..845J}
+{Jones}, M.~H. 2008, \mnras, 387, 845
 
 \bibitem[{{Judge} \& {Carpenter}(1998)}]{1998ApJ...494..828J}
 {Judge}, P.~G., \& {Carpenter}, K.~G. 1998, \apj, 494, 828
@@ -253,5 +260,9 @@
 
 \bibitem[{{Wright}(1970)}]{1970VA.....12..147W}
 {Wright}, K.~O. 1970, Vistas in Astronomy, 12, 147
+
+\bibitem[{{Zuckerman} {et~al.}(1995){Zuckerman}, {Kim}, \&
+  {Liu}}]{1995ApJ...446L..79Z}
+{Zuckerman}, B., {Kim}, S.~S., \& {Liu}, T. 1995, \apjl, 446, L79
 
 \end{thebibliography}

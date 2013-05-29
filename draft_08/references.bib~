@@ -941,3 +941,62 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/1989MNRAS.239..913S},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+@ARTICLE{2006PASP..118.1112G,
+   author = {{Gray}, D.~F. and {Brown}, K.~I.~T.},
+    title = "{The Rotation of Arcturus and Active Longitudes on Giant Stars}",
+  journal = {\pasp},
+ keywords = {Line: Profiles, Stars: Activity, Stars: Late-Type, Stars: Rotation, Stars: Spots},
+     year = 2006,
+    month = aug,
+   volume = 118,
+    pages = {1112-1118},
+      doi = {10.1086/507077},
+   adsurl = {http://adsabs.harvard.edu/abs/2006PASP..118.1112G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995ApJ...446L..79Z,
+   author = {{Zuckerman}, B. and {Kim}, S.~S. and {Liu}, T.},
+    title = "{Luminosity Class III Stars with Excess Far-Infrared Emission}",
+  journal = {\apjl},
+ keywords = {STARS: CIRCUMSTELLAR MATTER},
+     year = 1995,
+    month = jun,
+   volume = 446,
+    pages = {L79},
+      doi = {10.1086/187935},
+   adsurl = {http://adsabs.harvard.edu/abs/1995ApJ...446L..79Z},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{1991A&A...249..181B,
+   author = {{Berruyer}, N.},
+    title = "{Dust-driven winds. II - Are the grains the real cause of motion?}",
+  journal = {\aap},
+ keywords = {COSMIC DUST, LATE STARS, RADIATION PRESSURE, RED GIANT STARS, STELLAR WINDS, GRAVITATIONAL FIELDS, OPTICAL THICKNESS, STELLAR ATMOSPHERES, STELLAR GRAVITATION},
+     year = 1991,
+    month = sep,
+   volume = 249,
+    pages = {181-191},
+   adsurl = {http://adsabs.harvard.edu/abs/1991A%26A...249..181B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2008MNRAS.387..845J,
+   author = {{Jones}, M.~H.},
+    title = "{The incidence of mid-infrared excesses in G and K giants}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0804.0521},
+ keywords = {circumstellar matter , infrared: stars},
+     year = 2008,
+    month = jun,
+   volume = 387,
+    pages = {845-855},
+      doi = {10.1111/j.1365-2966.2008.13282.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2008MNRAS.387..845J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}

@@ -3,44 +3,49 @@ The top-level auxiliary file: draft.aux
 The style file: apj.bst
 Database file #1: draftNotes.bib
 Database file #2: references.bib
-You've used 64 entries,
+Repeated entry---line 945 of file references.bib
+ : @article{2006PASP..118.1112G
+ :                             ,
+I'm skipping whatever remains of this entry
+You've used 67 entries,
             2988 wiz_defined-function locations,
-            1084 strings with 17249 characters,
-and the built_in function-call counts, 28826 in all, are:
-= -- 2436
-> -- 1850
-< -- 44
-+ -- 621
-- -- 557
-* -- 2356
-:= -- 5352
-add.period$ -- 64
-call.type$ -- 64
-change.case$ -- 424
-chr.to.int$ -- 64
-cite$ -- 64
-duplicate$ -- 1236
-empty$ -- 1821
-format.name$ -- 753
-if$ -- 5746
+            1102 strings with 17703 characters,
+and the built_in function-call counts, 30069 in all, are:
+= -- 2545
+> -- 1922
+< -- 45
++ -- 645
+- -- 578
+* -- 2454
+:= -- 5586
+add.period$ -- 67
+call.type$ -- 67
+change.case$ -- 443
+chr.to.int$ -- 67
+cite$ -- 67
+duplicate$ -- 1291
+empty$ -- 1902
+format.name$ -- 781
+if$ -- 5994
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 56
-newline$ -- 196
-num.names$ -- 263
-pop$ -- 458
+missing$ -- 59
+newline$ -- 205
+num.names$ -- 275
+pop$ -- 477
 preamble$ -- 1
-purify$ -- 424
+purify$ -- 443
 quote$ -- 0
-skip$ -- 1075
+skip$ -- 1122
 stack$ -- 0
-substring$ -- 1368
+substring$ -- 1431
 swap$ -- 54
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 573
+type$ -- 600
 warning$ -- 0
-while$ -- 256
+while$ -- 268
 width$ -- 0
-write$ -- 642
+write$ -- 672
+(There was 1 error message)

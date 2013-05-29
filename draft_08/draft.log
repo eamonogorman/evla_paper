@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  21 MAY 2013 15:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.3.7)  29 MAY 2013 17:50
 entering extended mode
  %&-line parsing enabled.
 **draft.tex
@@ -353,21 +353,21 @@ Overfull \hbox (8.10309pt too wide) in paragraph at lines 287--288
  []
 
 File: fig4.ps Graphic file (type eps)
-<fig4.ps>
+<fig4.ps> [8]
 File: fig5.ps Graphic file (type eps)
- <fig5.ps> [8] [9]
+ <fig5.ps> [9]
 Underfull \hbox (badness 10000) in paragraph at lines 350--352
 
  []
 
 (./draft.bbl [10]) [11] (./draft.aux) ) 
 Here is how much of TeX's memory you used:
- 4364 strings out of 495062
- 57503 string characters out of 1182645
- 145308 words of memory out of 3000000
- 7493 multiletter control sequences out of 15000+50000
+ 4377 strings out of 495062
+ 57833 string characters out of 1182645
+ 151017 words of memory out of 3000000
+ 7506 multiletter control sequences out of 15000+50000
  14437 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
  35i,13n,33p,2242b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on draft.dvi (11 pages, 93344 bytes).
+Output written on draft.dvi (11 pages, 93944 bytes).

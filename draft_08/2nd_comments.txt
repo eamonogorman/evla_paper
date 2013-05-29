@@ -30,3 +30,29 @@ Steve's:
   (2)  Page 1, Para 2: Clearly in the later red giants which can have significant dust, there may well be some resultant effects from radiation pressure on the dust and gas/dust coupling on the terminal wind properties of the winds. This anyway used to be the belief in the M giant community to whom it was self-evident that these winds were 'dust-driven'. As Keith MacGregor oft times pointed out to me though, the fact that there is significant dust only at >=2 R* means that something else had to push mass out there, and thus had to provide 75% of the energy to push it to infinity. I would suggest reminding the reader that neither of the 2 giants in this paper has evidence for significant dust in their atmospheres, just so as to defuse any concerns regarding this. [Do you know of any references quantifying how dust-free these 2 stars are? I did a quick search of ADS but couldn't find one: I did find  the article by Verhoelst et al (2005, A&A, 435, 289) on K-band IR interferometry on Alpha Boo where they raised the grisly spectre of a possible companion to explain their failure to fit the visibilities. However, in a later paper (Lacour et al. 2008, A&A, 485, 561) the same group puts this spectre to rest, so I don't think that this can of worms need be mentioned! ]
 
  (3) Page 8, para 1: "the MOLsphere has either has a geometrical": delete the first "has"
+
+Anita's:
+Actually it is now almost perfect!  except that I still do not see why you include the measurement methods (imfit etc.) which you do not use in Sec 2 and Table 2.  I am also confused because I'd have thought that integrated flux and the flux in an ellipse were not per beam but per some other area.
+ Also, for point sources, mentioning MFS as improvinng the uv coverage is not really relevant, but it does improve the image accuracy in cases of large fractional bandwidth if you use nterms 2 (i.e. allow for spec index).  There are a few other bits of Sec 2 which are correct but I had to read twice, e.g. the bit about reference pointing.  But you can ignor my comments on Sec 2 unless the referee fusses too!
+
+
+Other bits I had to re-read to make sense:
+
+3.1 end of first para
+... spectral index of --1.4; its flux density reaches 80.3 ...
+
+4.2 para 2 near bottom of first col on p7, omit first still and split sentence, i.e.
+
+.. we are sampling a region... velocity). This could also be a manifestation .. further out than that which is predicted by UV...'
+
+para 4 first sentence
+
+The predicted radio flux densities at high frequencies ($\nu>30$ GHz) are overestimated by the combination of both atmospheric models, although this approach does well in...
+
+
+
+Also in 4.2, if I was a referee I would think that it was not surprising that the Krogulec model was a wild overestimate and I would wonder what would happen if you scaled it to the actual parameters for alpha Tau, i.e. quantify the discussion of the rlw of alfven waves in the 3rd para of 4.3 - but fortunately I am not the referee!
+
+
+
+Stephen's comments had me worried but actually as faras I can see you do not discuss dust driven winds so that's a discussion one can have elswhere...  (when stars get dustier the mass loss rate increases by orders of magnitude, so even if the mass loss mechanism of these stars still operates the contribtion is very small - at least this is my take - but I don't think it is relevant here!)
