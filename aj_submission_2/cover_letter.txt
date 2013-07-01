@@ -1,0 +1,108 @@
+Cover letter explaining the changes made in response to the referee's comments
+------------------------------------------------------------------------------
+
+We thank the referee for their valuable comments which the author feels improves the overall quality of the paper.
+
+
+########################################################
+Referee: In Section 4, the authors confront their observations to available 1-D semi-empirical chromospheric and wind models. Although the authors detail the output of the adopted wind models (e.g., predicted velocity and temperature laws in Fig 3), a (brief) physical description of these models should also be incorporated in the manuscript. This is particularly relevant concerning the models of Drake (1985), which were published in the proceedings of a workshop and is not available to download through ADS.
+
+Response: 
+########################################################
+Referee: The adopted models of Drake (1985) and Robinson et al (1998) seem to have been developed to semi-empirically fit data that were acquired at different facilities. The non-smooth shape of velocity and temperature profiles in Figure 3 indicate that a physically self-consistent driving mechanism is not accounted for in these models. The Alfven-wave driven wind models of Krogulec (1988, 1989) are more sophisticated in this respect, but their predictions do not agree with the presented observations. Figure 2 shows that the Alfven-wave driven models over-estimate the observed radio fluxes. While this is indeed the case, the authors need to clarify in the discussion on page 7 (2nd column, penultimate paragraph) that the lack of agreement is not necessarily due to a wrong physical perception of the wind driving mechanism, but, as stated by Krogulec (1988), by the large uncertainties in the free parameters of the model, which lead to degenerate wind solutions. Therefore, it is likely that the models such as the one provided by Krogulec (1988, 1989) could provide reasonable fits to the data if the set of free parameters were observationally constrained by data such as the one presented in the manuscript.
+
+Response: 
+########################################################
+
+
+
+page 2, 2nd column:
+########################################################
+Referee:  Table 1: wind terminal velocities, mass loss rates and temperatures are not 'Properties of the red giant sample', as stated in the caption, but are parameters derived from semi-empirical models. This should be stated in the caption. In addition, no error bars are provided for the derived wind parameters. How constrained are those values?
+
+Response: Changed table caption to "Stellar and Wind Parameters of Alpha Boo and Alpha Tau." In tablenotes we have added "Wind parameters are derived from the semi-empirical models of Drake (1985) and Robinson et al. (1998)." Also we have removed the wind temperature value of ~10,000 K for Alpha Tau and have replaced it with a "?" as the Robinson model is unable to constrain this value. Harper et al. (2004) .....
+########################################################
+Referee: last paragraph: Aldebaren -> Aldebaran
+
+Response: Changed
+########################################################
+Referee: last paragraph: 'albeit weak' -> please quantify values of magnetic fields
+
+Response: Added the magnetic field value for Alpha Boo from Sennhauser & Berdyugina 2011.
+########################################################
+
+
+
+page 5, 2nd column:
+########################################################
+Referee: Discussion of chromospheric variability: Based on the different fluxes observed by their 6cm-data and previous observations, the authors claim that alpha Tau presents chromospheric variability. The variation between different observations is more than a factor of two. A similar level of variability (a factor 6.09/3.3~1.8) is seen between their 0.7cm-data and previous observations of alpha Boo. However, contrary to alpha Tau, the authors argue that the variability seen in alpha Boo observations cannot be attributed to chromospheric variability, because it "would be unexpected from such supposedly inactive stars (Harper et al. 2013)." Why is the difference in flux at 6 cm for alpha Tau attributed to variability, while the difference at 0.7 cm for alpha Boo is believed to be unreal? Note that chromospheric variability has been found in both targets, as is reported in the last paragraph of page 2.
+
+Response: 
+########################################################
+Referee: "VLA bands (i.e., X and Ku)" -> "VLA bands (i.e., C and Ku)"
+
+Response: 
+#######################################################
+
+
+
+page 6:
+########################################################
+Referee:  Figures 1 and 2 summaries the most important results of this paper and I believe it is important to present these figures in the clearest possible manner. For example, to directly associate this figure to Tables 3 and 4, I suggest the authors to present the figures in log scales in both x and y axes, with the x-axis in units of GHz. The current plot is presented in linear xy-scales, where x=log10(nu) and y=log10(flux). Therefore, the comparison between {x,y} and {nu,flux} is currently not direct and requires conversions. In addition, the discussion in the text (esp. Section 4) usually refers to wavelength and not to frequency. Therefore, the manuscript would read more smoothly if either the discussion referred to frequency or if Figures 1 and 2 presented an extra axis for wavelength at the top.
+
+Response: We have now added an additional wavelength axis to the top of both Figure 1 and 2. We have decided to leave the axes in linear xy-scales (so as to not have some of the data points squashed together), where x=log10(nu) and y=log10(flux) but the x-axes are now in GHz for to match the text. We have also added a wavelength column to both Table 3 and 4 to help the reader.
+########################################################
+
+
+
+page 4, 2nd col:
+########################################################
+Referee:  "We find the source to have a spectral index alpha (F_nu \propto nu^alpha) of -1.4" -> the spectral index should be positive.
+
+Response: Here we are talking about the main strong source in our maps of Alpha Boo. It is a non-thermal source and therfore has a negative spectral index. We have calrified this in the text from:
+"This source was reported by Drake & Linskey (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4; its flux density reaches 80.3 mJy at 1.6 GHz."
+to
+"This non-thermal source was reported by Drake & Linskey (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4 between 8.5 and 1.6 GHz; its flux density reaches 80.3 mJy at 1.6 GHz."
+########################################################
+Referee:  What is the spectral index of alpha Tau and how does it compare to the value of 1.4 found for alpha Boo? (Only the spectral index for the longest wavelengths is provided in 4.3.)
+
+Response: We do not give the total spectral index (derived from all the VLA frequencies) for either of the stars, as such a value would be probing 3 orders of magnitude in continuum optical depth (mentioned in Section 1.1) and whose emission would be coming from many different layers of the stellar atmosphere.
+########################################################
+
+
+
+page 7, 1st col:
+########################################################
+Referee:  "Our computed radio spectrum reproduces Drake's (1985) predicted flux density value of &#x223C;0.4 mJy at 6 cm." -> There are other points that reproduce previous observations as well: at 43GHz, 22GHz. Is there any particular reason why only the 6-cm agreement is mentioned?
+
+Response: 
+########################################################
+Referee:  "Figure 1 shows the resulting predicted radio spectrum between 1 GHz and 1 THz for alpha Boo from these chromo- sphere and wind models." -> add "(green line)" at the end of sentence.
+
+Response: Added this to text.
+########################################################
+
+
+page 8, 2nd col:
+########################################################
+Referee:  In one instance S_nu is used and in other it is used F_nu.
+
+Response: Changed to F_nu.
+########################################################
+Referee:   "The combinations of the electron temperature and density coefficients are shown for each star in Figure 5 along with the coefficients obtained by assuming either an isothermal flow or a constant velocity flow." -> "The combinations of the electron temperature and density coefficients are shown for each star in Figure 5 (alpha Boo is represented by the solid line and alpha Tau by the dash-dotted line) along with the coefficients obtained by assuming either an isothermal flow (n=0) or a constant velocity flow (p=2)."
+
+Response: Changed the text to this.
+########################################################
+Referee:   "These waves would need to have large damping lengths and undergo some dissipation within a few stellar radii of the surface in order to produce the low terminal velocities" -> The waves need to have *small* (typically < 1 Rstar) damping lengths and undergo *substantial* dissipation, otherwise the terminal velocities predicted by the models are too large (cf also Jatenco-Pereira & Opher 1989A&A...209..327J; Vidotto et al 2006ApJ...639..416V).
+
+Response: 
+########################################################
+Referee:  "This assumption is reasonable at short wavelengths where the majority of the radio emission is expected to emanate from the chromosphere or wind acceleration zone, but at long VLA wavelengths (i.e., between 6 and 20 cm) we may indeed be sampling the wind very close to or at its terminal velocity and the wind may have substantial thermal gradients caused by adiabatic cooling." -> Can the authors quantify what is considered as 'substantial thermal gradients'? Because the damping length required to produce low-terminal-velocity winds is small, the heating deposition due to dissipation of Alfven waves occurs very close to the 'base' of the wind as is shown for instance in plots from Krogulec 1988, 1989 (cf also Jatenco-Pereira & Opher 1989; Falceta-Goncalves et al 2006; Vidotto et al 2006). These models suggest that very close to the wind base, the temperature increases by a factor of a few above the photospheric value.
+
+Response: 
+########################################################
+Referee:   "If we ignore thermal gradients, then the density coefficients are p =2.71 and 5.5 for alpha Boo and alpha Tau, respectively." -> From mass conservation arguments (and assuming a constant ionization fraction), one can relate the power-law index of the radial density profile to a power-law index of the velocity (v) profile, such that v \propto r^(p-2). Using the values of p derived, for alpha Boo one finds v \propto r^0.71 and for alpha Tau v \propto r^3.5. This indeed confirms (mathematically) that the large wavelengths probe the steep-acceleration region of alpha Tau (base of the wind zone), a conclusion reached by the authors on page 9 by different arguments ("but even our longest-wavelength observations are highly unlikely to sample the wind outside the lower velocity layers closer to the star."). Similarly for alpha Boo, the long-wavelength region probe a region where the wind has reached a steady terminal velocity," agreeing with the mathematical argument presented above (i.e., the velocity profile has a smoother increase of v \propto r^0.71).
+
+Response: 
+########################################################
+
