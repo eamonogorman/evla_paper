@@ -1,13 +1,17 @@
 Cover letter explaining the changes made in response to the referee's comments
 ------------------------------------------------------------------------------
 
-We thank the referee for their valuable comments which the author feels improves the overall quality of the paper.
+We thank the referee for their valuable comments which the author feels improves the overall quality of the paper. We attach a scanned version of Drake (1985) which, as the referee correctly pointed out, is not available on ADS.
 
 
 ########################################################
 Referee: In Section 4, the authors confront their observations to available 1-D semi-empirical chromospheric and wind models. Although the authors detail the output of the adopted wind models (e.g., predicted velocity and temperature laws in Fig 3), a (brief) physical description of these models should also be incorporated in the manuscript. This is particularly relevant concerning the models of Drake (1985), which were published in the proceedings of a workshop and is not available to download through ADS.
 
-Response: 
+Response: In the 1st paragraph of Section 4.2 we have now added some additional information about the Drake model:
+"......The line was modeled by solving the radiative transfer equation in a spherically co-moving frame and the effects of partial redistribution were taken into account. A two-level atom was used to represent the upper and lower level of the resonance line. Both of Drake's atmospheric models contain the photospheric model of Ayres & Linskey (1975), predict the wind to reach a terminal velocity of 35 - 40 km s${}^{-1}$ by 2 $R _{\star}$, and reach a maximum microturbulence of 5 km s$^{-1}$......"
+
+In the 3rd paragraph of Section 4.2 we have now added some additional information about the McMurry and Robinson's models. This paragraph now reads:
+"In Figure 2 we plot the expected radio spectrum of $\alpha$ Tau based on the semi-empirical 1-D chromosphere and transition region model of McMurry (1999) embedded in the 1-D wind model of Robinson (1998). The McMurry model was created by using the radiative transfer code MULTI (Carlsson, 1986) to reproduce the fluxes of collisionally excited lines in a plane-parallel, hydrostatic, one-component atmosphere. It contains the photospheric model of Johnson (1973) and reaches a maximum temperature of 10$^{5}$ K at 1.2 $R_{\star}$. As it does not contain a wind outflow, we use Robinson's wind characteristics beyond 1.2 $R_{\star}$ to describe the outflow velocity. In this wind model, the wind reaches $\sim$80\% of its terminal value of 30 km s$^{-1}$ by 3 $R_{\star}$. The Robinson wind characteristics are based on matching the Fe II 2755 $\rm{\AA}$ line and three O I lines with a simple wind model using the SEI computer code. We assume the wind to have a constant temperature of 10,000 K and have a constant ionization fraction, $x_{e}$, of 0.5 throughout, based on the ionization fraction at the corresponding temperature in the McMurry model."
 ########################################################
 Referee: The adopted models of Drake (1985) and Robinson et al (1998) seem to have been developed to semi-empirically fit data that were acquired at different facilities. The non-smooth shape of velocity and temperature profiles in Figure 3 indicate that a physically self-consistent driving mechanism is not accounted for in these models. The Alfven-wave driven wind models of Krogulec (1988, 1989) are more sophisticated in this respect, but their predictions do not agree with the presented observations. Figure 2 shows that the Alfven-wave driven models over-estimate the observed radio fluxes. While this is indeed the case, the authors need to clarify in the discussion on page 7 (2nd column, penultimate paragraph) that the lack of agreement is not necessarily due to a wrong physical perception of the wind driving mechanism, but, as stated by Krogulec (1988), by the large uncertainties in the free parameters of the model, which lead to degenerate wind solutions. Therefore, it is likely that the models such as the one provided by Krogulec (1988, 1989) could provide reasonable fits to the data if the set of free parameters were observationally constrained by data such as the one presented in the manuscript.
 
@@ -37,11 +41,12 @@ page 5, 2nd column:
 ########################################################
 Referee: Discussion of chromospheric variability: Based on the different fluxes observed by their 6cm-data and previous observations, the authors claim that alpha Tau presents chromospheric variability. The variation between different observations is more than a factor of two. A similar level of variability (a factor 6.09/3.3~1.8) is seen between their 0.7cm-data and previous observations of alpha Boo. However, contrary to alpha Tau, the authors argue that the variability seen in alpha Boo observations cannot be attributed to chromospheric variability, because it "would be unexpected from such supposedly inactive stars (Harper et al. 2013)." Why is the difference in flux at 6 cm for alpha Tau attributed to variability, while the difference at 0.7 cm for alpha Boo is believed to be unreal? Note that chromospheric variability has been found in both targets, as is reported in the last paragraph of page 2.
 
-Response: 
+Response: We do not make any claims of either chromospheric or wind variability in this paper and stress that the disagrement at Q-band (for Alpha Boo) and at C-band (for Alpha Tau) can only be solved with future observations at these wavelengths. We have re-worded one sentence to make this more clear. 
+"Such a level of chromospheric variability seems rather high and would be unexpected from such supposedly inactive stars \citep{2013MNRAS.428.2064H}." --> "Although we do not rule out such a level of chromospheric variability, it would be unexpected from such supposedly inactive stars \citep{2013MNRAS.428.2064H}."
 ########################################################
 Referee: "VLA bands (i.e., X and Ku)" -> "VLA bands (i.e., C and Ku)"
 
-Response: 
+Response: This should stay the same. Alpha Tau was never detected at C band prior to our observations (only upper limits were placed on it). It was detected at X and Ku bands by Wood et al. (2007). 
 #######################################################
 
 
@@ -73,9 +78,9 @@ Response: We do not give the total spectral index (derived from all the VLA freq
 
 page 7, 1st col:
 ########################################################
-Referee:  "Our computed radio spectrum reproduces Drake's (1985) predicted flux density value of &#x223C;0.4 mJy at 6 cm." -> There are other points that reproduce previous observations as well: at 43GHz, 22GHz. Is there any particular reason why only the 6-cm agreement is mentioned?
+Referee:  "Our computed radio spectrum reproduces Drake's (1985) predicted flux density value of 0.4 mJy at 6 cm." -> There are other points that reproduce previous observations as well: at 43GHz, 22GHz. Is there any particular reason why only the 6-cm agreement is mentioned?
 
-Response: 
+Response: In Drake's paper he predicts that his model would produce a radio flux of 0.4 mJy at 6 cm. He doesn't give estimates at other wavelengths. We have re-worded this sentence for clarity to now be: "Drake (1985) predicts that their atmospheric model would produce a flux density value of 0.4 mJy at 6 cm and encouragingly, our computed radio spectrum reproduces this value also."
 ########################################################
 Referee:  "Figure 1 shows the resulting predicted radio spectrum between 1 GHz and 1 THz for alpha Boo from these chromo- sphere and wind models." -> add "(green line)" at the end of sentence.
 
