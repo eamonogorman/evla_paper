@@ -1,7 +1,7 @@
 Cover letter explaining the changes made in response to the referee's comments
 ------------------------------------------------------------------------------
 
-We thank the referee for their careful reading of the manuscript and their valuable comments which the author feels improves the overall quality of the paper. We attach a scanned version of Drake (1985) which, as the referee correctly pointed out, is not available on ADS.
+We thank the referee for their careful reading of the manuscript and their valuable comments which have improved the overall quality of the paper. We attach a scanned version of Drake (1985) which, as the referee correctly pointed out, is not available on ADS.
 
 In the following sections we address the referee's comments.
 
@@ -39,7 +39,7 @@ Response: Changed
 Referee: last paragraph: 'albeit weak' -> please quantify values of magnetic fields
 
 Response: Added the mean longitudinal magnetic field value of for Alpha Boo from Sennhauser & Berdyugina 2011.
-"Even though they are slow rotators, a mean longitudinal magnetic field (albeit weak: $B = 0.65 \pm 0.26$ G) has been detected on $\alpha$ Boo ......."
+"Even though they are slow rotators, a mean longitudinal magnetic field (albeit weak: $B = 0.65 \pm 0.26$ G) has possibly been detected for $\alpha$ Boo ......."
 ########################################################
 
 
