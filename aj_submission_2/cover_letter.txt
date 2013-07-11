@@ -9,7 +9,7 @@ In the following sections we address the referee's comments.
 Referee: In Section 4, the authors confront their observations to available 1-D semi-empirical chromospheric and wind models. Although the authors detail the output of the adopted wind models (e.g., predicted velocity and temperature laws in Fig 3), a (brief) physical description of these models should also be incorporated in the manuscript. This is particularly relevant concerning the models of Drake (1985), which were published in the proceedings of a workshop and is not available to download through ADS.
 
 Response: In the 1st paragraph of Section 4.2 we have now added some additional information about the Drake model:
-"......The line was modeled by solving the radiative transfer equation in a spherical co-moving frame and the effects of partial redistribution (e.g., Drake & Linsky 1983b) were taken into account. Both of Drake's atmospheric models contain the photospheric model of Ayres & Linskey (1975), predict the wind to reach a terminal velocity of 35 - 40 km s${}^{-1}$ by 2 $R _{\star}$, and reach a maximum microturbulence of 5 km s$^{-1}$......"
+"...... The line was modeled by solving the radiative transfer equation in a spherical co-moving frame and the effects of partial redistribution (e.g., Drake & Linsky 1983b) were taken into account. Both of Drake's atmospheric models are semi-empirical and contain no assumptions about the wind driving mechanism. They contain the photospheric model of Ayres & Linsky (1975), predict the wind to reach a terminal velocity of 35 - 40 km s${}^{-1}$ by 2 $R _{\star}$, and reach a maximum microturbulence of 5 km s$^{-1}$......"
 
 In the 3rd paragraph of Section 4.2 we have now added some additional information about the McMurry and Robinson et al.'s models. This paragraph now reads:
 "In Figure 2 we plot the expected radio spectrum of $\alpha$ Tau based on the semi-empirical 1-D chromosphere and transition region model of McMurry (1999) embedded in the 1-D wind model of Robinson (1998). The semi-empirical  McMurry model was created by using the radiative transfer code MULTI (Carlsson, 1986) to reproduce the fluxes of collisionally excited C I, C II, Si III, Mg II, and C IV lines in a plane-parallel, hydrostatic, one-component atmosphere. It contains the photospheric model of Johnson (1973) and reaches a maximum temperature of 10$^{5}$ K at 1.2 $R_{\star}$. As it does not contain a wind outflow, we use Robinson's wind characteristics beyond 1.2 $R_{\star}$ to describe the outflow velocity. In this wind model, the wind reaches $\sim$80\% of its terminal value of 30 km s$^{-1}$ by 3 $R_{\star}$. The Robinson wind characteristics are based on matching the Fe II 2755 $\rm{\AA}$ line and the O I triplet near 1304 $\rm{\AA}$ with a simplified wind model using the SEI computer code. We assume the wind to have a constant temperature of 10,000 K and have a constant ionization fraction, $x_{e}$, of 0.5 throughout, based on the ionization fraction at the corresponding temperature in the McMurry model."
@@ -39,7 +39,7 @@ Response: Changed
 Referee: last paragraph: 'albeit weak' -> please quantify values of magnetic fields
 
 Response: Added the mean longitudinal magnetic field value of for Alpha Boo from Sennhauser & Berdyugina 2011.
-"Even though they are slow rotators, a mean longitudinal magnetic field (albeit weak: $B = 0.65 \pm 0.26$ G) has possibly been detected for $\alpha$ Boo ......."
+"Even though they are slow rotators, three possible values for the mean longitudinal magnetic field (albeit weak: B = 0.65 +/- 0.26, 0.43 +/- 0.16, and -0.23 +/- 0.20  G) have been reported for $\alpha$ Boo ......."
 ########################################################
 
 
@@ -70,9 +70,9 @@ page 4, 2nd col:
 Referee:  "We find the source to have a spectral index alpha (F_nu \propto nu^alpha) of -1.4" -> the spectral index should be positive.
 
 Response: Here we are talking about the strongest source in our maps of Alpha Boo. It is a non-thermal source and therefore has a negative spectral index. We have clarified this in the text from:
-"This source was reported by Drake & Linskey (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4; its flux density reaches 80.3 mJy at 1.6 GHz."
+"This source was reported by Drake & Linsky (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4; its flux density reaches 80.3 mJy at 1.6 GHz."
 to
-"This non-thermal source was reported by Drake & Linskey (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4 between 8.5 and 1.6 GHz; its flux density reaches 80.3 mJy at 1.6 GHz."
+"This non-thermal source was reported by Drake & Linsky (1986) and their flux density of 25 mJy at 4.9 GHz is in close agreement with our measurement of 23.2 mJy at the same frequency. We find the source to have a spectral index $\alpha$ ($F_{\nu} \propto \nu ^{\alpha}$) of -1.4 between 8.5 and 1.6 GHz; its flux density reaches 80.3 mJy at 1.6 GHz."
 
 ########################################################
 Referee:  What is the spectral index of alpha Tau and how does it compare to the value of 1.4 found for alpha Boo? (Only the spectral index for the longest wavelengths is provided in 4.3.)
